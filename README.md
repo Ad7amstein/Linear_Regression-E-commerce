@@ -1,4 +1,4 @@
-# Linear Regression Project: E-Commerce
+# Linear Regression Project: E-Commerce <a href=\"https://colab.research.google.com/github/Ad7amstein/Linear_Regression-E-commerce/blob/main/ecommerce.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 ## About
 This project focuses on utilizing linear regression with gradient descent to predict the yearly amount spent by customers in an e-commerce store that offers both in-store style and clothing advice sessions. The dataset contains information about customers who engage in these sessions and subsequently make purchases either through a mobile app or website.
 ## [Dataset](https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website/data)
