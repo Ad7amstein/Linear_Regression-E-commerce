@@ -19,6 +19,7 @@ The dataset consists of various features including:
 ## Usage
 To utilize this project:
 
+1. [Open in colab](https://colab.research.google.com/github/Ad7amstein/Linear_Regression-E-commerce/blob/main/ecommerce.ipynb)
 2. Explore the generated plots and visualizations to analyze the data and model performance.
 3. Experiment with different parameters and features to further enhance the model's accuracy.
 
